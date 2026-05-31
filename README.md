@@ -2,7 +2,7 @@
 
 A competitive typing speed game with an adaptive AI opponent, ghost replay system, live WPM tracking, combo mechanics, and a full stats dashboard — built entirely in vanilla HTML, CSS, and JavaScript.
 
-🔗 **[Play it live →](https://yourusername.github.io/typeracer-x/)**
+🔗 **[Play it live →](https://raemoncozad.github.io/typeracer-x/)**
 
 > _Replace the link above with your GitHub Pages URL after deploying._
 
