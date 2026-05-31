@@ -4,15 +4,11 @@ A competitive typing speed game with an adaptive AI opponent, ghost replay syste
 
 🔗 **[Play it live →](https://raemoncozad.github.io/typeracer-x/)**
 
-> _Replace the link above with your GitHub Pages URL after deploying._
-
 ---
 
 ## 📸 Preview
 
-<!-- Drop a GIF or screenshot here — record with ScreenToGif (Windows) or Kap (Mac) -->
 
-![TypeRacer X Screenshot](screenshot.png)
 
 ---
 
