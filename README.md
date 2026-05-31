@@ -8,7 +8,7 @@ A competitive typing speed game with an adaptive AI opponent, ghost replay syste
 
 ## 📸 Preview
 
-
+<img width="1132" height="939" alt="TypeRacerXAnimation" src="https://github.com/user-attachments/assets/cafbd68c-ec08-44fd-841c-9fcd9f8ca870" />
 
 ---
 
